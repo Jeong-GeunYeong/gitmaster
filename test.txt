@@ -1,0 +1,31 @@
+print("첫번째 커밋")
+print("세번째 커밋")
+간단 깃허브
+많은 서비스 소스트리
+신 그자체 커맨드라인
+
+1. clone
+워킹디렉토리
+있던 파일M색깔과 위치가 바뀜 GIT
+새로운파일 ?? ->A로바뀜 
+
+ 스테이징 에어리아
+git commit -m "첫번째 커밋"
+하면 래파지토리에 올라감
+
+
+ 레파지토리
+
+2. push
+git push
+git push origin master
+
+3. barnch
+git branch <- 브랜치위치 확인
+git branch 이름<-이름 브랜치 생성
+git checkout 파일명 <-헤드 이동(checkout은 브랜치 이동)
+git branch -d 파일명 <-브렌치삭제
+git checkout -b Geny <- 브렌치생성과동시에 생성된 브렌치로 이동
+
+4,.merge
+
